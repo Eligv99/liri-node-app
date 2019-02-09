@@ -1,14 +1,14 @@
 # liri-node-app
 
-<img scr="images/one.png">
+<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/one.png?raw=true">
 
-<img scr="images/two.png">
+<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/two.png?raw=true">
 
-<img scr="images/three.png">
+<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/three.png?raw=true">
 
-<img scr="images/four.png">
+<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/four.png?raw=true">
 
-<img scr="images/five.png">
+<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/five.png?raw=true">
 
 <img scr="images/six.png">
 
