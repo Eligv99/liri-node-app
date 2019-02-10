@@ -1,21 +1,22 @@
 # liri-node-app
 
-<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/one.png?raw=true">
+![alt text](Images/one.png "Introduction")
 
-<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/two.png?raw=true">
+![alt text](Images/two.png "Introduction")
 
-<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/three.png?raw=true">
+![alt text](Images/three.png "Concert-this")
 
-<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/four.png?raw=true">
+![alt text](Images/four.png "Concert-this")
 
-<img scr="https://github.com/Eligv99/liri-node-app/blob/master/Images/five.png?raw=true">
+![alt text](Images/five.png "Spotify")
 
-<img scr="images/six.png">
+![alt text](Images/six.png "Spotify")
 
-<img scr="images/seven.png">
+![alt text](Images/seven.png "Movie-this")
 
-<img scr="images/eight.png">
+![alt text](Images/eight.png "Movie-this")
 
-<img scr="images/nine.png">
+![alt text](Images/nine.png "Do-what-it-says")
 
-<img scr="images/ten.png">
+![alt text](Images/ten.png "Do-what-it-says")
+
