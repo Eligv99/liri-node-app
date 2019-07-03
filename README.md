@@ -1,4 +1,10 @@
-# liri-node-app
+# Liri-node-app
+
+# What is it 
+
+This Node.js command line application called Liri uses various node packages to make API requests. Users are able search for songs, movies and upcoming band performances and will receive back information about their given search term. Specifically, it requests information from the Bands in Town, Spotify and OMDB API's.
+
+# Demo
 
 ![alt text](Images/one.png "Introduction")
 
@@ -20,25 +26,26 @@
 
 ![alt text](Images/ten.png "Do-what-it-says")
 
-LIRI ("Language Interpretation and Recognition Interface") is simple command line node app that can pull information from the Spotify, Alpha Vantage, and OMDB APIs and return information neatly for the user.
 
-For Spotify track information, use
+## How it works
+There are four different ways this app can be used.
 
-node liri spotify-this-song "<song name here>"
-to return song name, album, artists, the url for the spotify song preview. By default, the program will display The Sign by Ace of Base if no song is provided.
+Return the next upcoming concert for the searched for artist or band:
+````
+$ node liri.js concert-this <search artist/band name here>
+````
+Return information about the searched for movie:
+````
+$ node liri.js movie-this <search movie name here> 
+````
+Return information about the searched for song:
+````
+$ node liri.js spotify-this-song <search song name here> 
+````
+This will read the included random.txt file and pass through a value to the spotify function, which will run and return song information about the song in the txt file:
+````
+$ node liri.js do-what-it-says 
+````
 
-For movie information, use
-
-node liri movie-this "<movie name here>"
-to return movie name, release year, imdb and rotten tomatoes ratings, the country of release, the language, plot and hte actorsd of the film.
-
-For stock information, use
-
-node liri stock-this "<stock symbol here>"
-to return the latest stock information about the symbol provided.
-
-Otherwise, you can use
-
-node liri do-what-it-says
-which reads a command from the random.txt file and executes it
-
+## Authors
+See contribution history [here](https://github.com/Eligv99/liri-node-app/graphs/contributors)
